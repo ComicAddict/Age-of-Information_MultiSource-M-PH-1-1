@@ -1,0 +1,47 @@
+04.08.2020 - Introduction and Meeting about the internship topic
+	- Age of Information
+	- Server Provisioning
+11.08.2020 - Deciding the internship topic, and what to do for the next week
+	- Age Control Protocols
+	- Survey of existing ACPs
+	- A variation of existing ACP will be implemented
+12.08.2020 - Finding Sources related to usage of age of information, protocols and algorithms
+	- https://ieeexplore.ieee.org/document/8806423
+	- https://arxiv.org/abs/1811.03353
+	- http://liu.diva-portal.org/smash/record.jsf?pid=diva2%3A1423889&dswid=-5685
+	- http://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1370193&dswid=-1992
+	- https://arxiv.org/pdf/1901.07226.pdf
+	- https://arxiv.org/pdf/1904.10077.pdf
+	- https://arxiv.org/pdf/1905.03238.pdf
+	- http://webhome.auburn.edu/~yzs0078/talks/PIMRC_2019_YinSun.pdf
+	- https://www.morganclaypool.com/doi/pdf/10.2200/S00046ED1V01Y200609CNT001
+	- https://rucore.libraries.rutgers.edu/rutgers-lib/62094/
+	- http://webhome.auburn.edu/~yzs0078/AoI.html
+	- https://arxiv.org/pdf/1908.10739.pdf
+	- https://ieeexplore.ieee.org/document/8433695
+	- https://ieeexplore.ieee.org/document/7951041
+	- https://www.sciencedirect.com/science/article/pii/S1570870519309990
+13.08.2020 - Looked Go Lang Networking
+	- Learned P2P implementation and implemented a program
+14.08.2020 - Eliminated some sources, added some sources
+	- Most of the papers was about queue policies not protocols
+15.08.2020 - Read the `ACP` paper and `ACP Poster`
+	- Looked up some tools used in the paper
+	- ns-3 Network Simulator
+	- CORE Network Emulator
+	- GoLang defining a protocol 
+16.08.2020 - Read `AAoI with HARQ` and `Optimizing AoI on TCP/IP with RL`
+	- Both uses RL and action states
+	- SVI, SARSA
+	- Both does not define a solid protocol scheme
+	- Did not read them fully
+17.08.2020 - Unavaliable 
+18.08.2020 - Unavailable
+19.08.2020 - Unavailable
+20.08.2020 - Unavailable
+21.08.2020 - Meeting with Nail hoca
+	- Changed the topic from protols to bufferless queues and limited buffer queues
+	- Going to do simulations
+22.08.2020 - Did nothing
+
+
